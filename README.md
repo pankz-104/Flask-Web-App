@@ -26,8 +26,8 @@ Images
 Sign_Up 
 ![Sign Up Page](Images/sign_up.png)
 
-Home Page
-![Home_Page](Images/home_page.png)
-
 Login Page
 ![Login Page](Images/login.png)
+
+Home Page
+![Home_Page](Images/home_page.png)
